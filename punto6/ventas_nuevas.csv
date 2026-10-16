@@ -1,0 +1,6 @@
+id_venta,fecha,ciudad,codigo_postal,producto,categoria,cantidad,precio_unitario
+21,2026-09-11,Medellin,050010,Audifonos,Tecnologia,2,220000
+22,2026-09-11,Bogota,110111,Escritorio,Oficina,1,640000
+23,2026-09-12,Cali,760001,Cafetera,Hogar,2,300000
+24,2026-09-12,Barranquilla,080001,Portatil,Tecnologia,1,2750000
+25,2026-09-13,Medellin,050021,Lampara,Hogar,1,90000

@@ -1,0 +1,21 @@
+id_venta,fecha,ciudad,codigo_postal,producto,categoria,cantidad,precio_unitario
+1,2026-09-01,Medellin,050021,Portatil,Tecnologia,1,2800000
+2,2026-09-01,Bogota,110111,Silla ergonomica,Oficina,2,450000
+3,2026-09-02,Cali,760001,Licuadora,Hogar,1,180000
+4,2026-09-02,Barranquilla,080001,Monitor,Tecnologia,2,750000
+5,2026-09-03,Medellin,050021,Escritorio,Oficina,1,620000
+6,2026-09-03,Bogota,110111,Audifonos,Tecnologia,3,220000
+7,2026-09-04,Cali,760001,Sarten,Hogar,2,95000
+8,2026-09-04,Medellin,050010,Teclado,Tecnologia,4,130000
+9,2026-09-05,Barranquilla,080002,Lampara,Hogar,2,85000
+10,2026-09-05,Bogota,110221,Impresora,Oficina,1,690000
+11,2026-09-06,Cali,760042,Celular,Tecnologia,1,1900000
+12,2026-09-06,Medellin,050021,Cafetera,Hogar,1,310000
+13,2026-09-07,Bogota,110111,Archivador,Oficina,1,380000
+14,2026-09-07,Barranquilla,080001,Tablet,Tecnologia,1,1200000
+15,2026-09-08,Medellin,050010,Mouse,Tecnologia,5,60000
+16,2026-09-08,Cali,760001,Olla a presion,Hogar,1,240000
+17,2026-09-09,Bogota,110221,Portatil,Tecnologia,2,2600000
+18,2026-09-09,Medellin,050021,Silla ergonomica,Oficina,1,450000
+19,2026-09-10,Barranquilla,080002,Ventilador,Hogar,3,160000
+20,2026-09-10,Cali,760042,Monitor,Tecnologia,1,780000
